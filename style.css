@@ -1,0 +1,6 @@
+#about{
+    background: url('https://www.shutterstock.com/video/clip-19147018-3d-abstract-shapes-background-animation-on-black');
+}
+body{
+    background-image: linear-gradient(to bottom, rgb(130, 0, 54),white,rgb(185, 62, 62),pink,rgb(192, 192, 40),rgb(96, 228, 96));
+}
